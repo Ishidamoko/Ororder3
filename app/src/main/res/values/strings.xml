@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">メニューリスト</string>
+    <string name="UnitOfFood">個</string>
+    <string name="order">注文</string>
+    <string name="item1">注文履歴</string>
+    <string name="orderlist">注文履歴</string>
+    <string name="back">戻る</string>
+</resources>
